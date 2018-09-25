@@ -1,0 +1,13 @@
+.product {
+    float:left;
+    border-left:solid .5px rgb(234, 234, 2034);
+    border-bottom:none;
+    padding-top:60px;
+    transition:all .5s;
+    -webkit-transition: all .5s;
+    padding:45px;
+}
+
+.product:hover {
+    background-color: rgb(221, 219, 190);
+}

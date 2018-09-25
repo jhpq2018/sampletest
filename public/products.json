@@ -1,0 +1,38 @@
+[
+    {
+        "Title":"Product1",
+        "Price":{
+            "before":"20",
+            "now":"15",
+            "savings":"save 20% for 3 months"  
+        },
+        "List":["fjkfjkfkdd", "jkndfknjfjkf", "iuqwioewiew", "jufdijofdnjkfd"]
+    },
+    {
+        "Title":"Product2",
+        "Price":{
+            "before":"35",
+            "now":"25",
+            "savings":"save 20% for 3 months"  
+        },
+        "List":["fjkfjkfkdd", "jkndfknjfjkf", "iuqwioewiew", "jufdijofdnjkfd"]
+    },
+    {
+        "Title":"Product3",
+        "Price":{
+            "before":"40",
+            "now":"30",
+            "savings":"save 20% for 3 months"  
+        },
+        "List":["fjkfjkfkdd", "jkndfknjfjkf", "iuqwioewiew", "jufdijofdnjkfd"]
+    },
+    {
+        "Title":"Product4",
+        "Price":{
+            "before":"50",
+            "now":"45",
+            "savings":"save 20% for 3 months"  
+        },
+        "List":["fjkfjkfkdd", "jkndfknjfjkf", "iuqwioewiew", "jufdijofdnjkfd"]
+    }
+]
